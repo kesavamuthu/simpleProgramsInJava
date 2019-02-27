@@ -2,7 +2,10 @@ import java.util.Scanner;
 
 public class sample  {
 	
-
+/*this program will count the number of vowels in a string from the user input
+*first user give no. of testcase to enter
+*after that enter the string.
+*/
 	
 
 	public static void main(String[] args) {
