@@ -2,7 +2,8 @@ package com.hackrerth;
 
 public class PmNumber {
 	static int fLimit, sLimit;
-
+	//this is the problem in hacker earth to get the prime minister sum ? use the below link to see answers
+//https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/practice-problems/algorithm/prime-ministers-number/
 	static boolean isPrime(int a) {
 		for (int i = 2; i <= Math.sqrt((double) a); ++i)
 			if (a % i == 0)
